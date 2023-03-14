@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/sdhrrr/count.svg"/>
 </p>
 
-```python
+```js
 
   About me: 
   I am 'Sudheer'
@@ -17,13 +17,7 @@
 
 ```
 
-
-
 ![snake gif](https://github.com/sdhrrr/sdhrrr/blob/output/github-contribution-grid-snake.svg)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sdhrrr&bg_color=141321&color=ffffff&line=ffffff&point=1eb8eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <!-- ================== -->
 
@@ -61,6 +55,8 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sdhrrr&theme=dark)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sdhrrr&bg_color=141321&color=ffffff&line=ffffff&point=1eb8eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
