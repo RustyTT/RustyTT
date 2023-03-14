@@ -31,7 +31,7 @@
 <a style="padding: 20px;" style class="icon" href="https://instagram.com/sdhrrr_" target="blank"><img align="center" src="Assets/Icons/instagram.png" alt="sdhrrr_" height="40" width="40" /></a>
 <a style="padding: 20px;" class="icon" href="https://discord.gg/Rust.js#2332" target="blank"><img align="center" src="Assets/Icons/discord.png" alt="Rust.js#2332" height="40" width="40" /></a>
 <a style="padding: 20px;" class="icon" href="sudheerjillellamudi123@gmail.com" target="blank"><img align="center" src="Assets/Icons/mail.png" alt="mail me" height="40" width="40" /></a>
-</p>
+</p> </br>
 
 <!-- ================ -->
 
@@ -44,7 +44,7 @@
 <a style="padding: 20px;" class="icon" href="_blank" target="blank"><img align="center" src="Assets/Icons/mysql.png" alt="mail me" height="40" width="40" /></a>
 <a style="padding: 20px;" class="icon" href="_blank" target="blank"><img align="center" src="Assets/Icons/figma.png" alt="mail me" height="40" width="40" /></a>
 <a style="padding: 20px;" class="icon" href="_blank" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="mail me" height="40" width="40" /></a>
-<br> <br> <br>
+</br>
 
 <!-- ======================== -->
 
