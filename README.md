@@ -22,6 +22,9 @@
 ![snake gif](https://github.com/sdhrrr/sdhrrr/blob/output/github-contribution-grid-snake.svg)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sdhrrr&bg_color=141321&color=ffffff&line=ffffff&point=1eb8eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!-- ================== -->
 
 
@@ -33,7 +36,6 @@
 <a style="padding: 20px;" class="icon" href="sudheerjillellamudi123@gmail.com" target="blank"><img align="center" src="Assets/Icons/mail.png" alt="mail me" height="40" width="40" /></a>
 </p> </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sdhrrr&bg_color=141321&color=ffffff&line=ffffff&point=1eb8eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ================ -->
 
