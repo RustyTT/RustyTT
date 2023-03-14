@@ -33,6 +33,8 @@
 <a style="padding: 20px;" class="icon" href="sudheerjillellamudi123@gmail.com" target="blank"><img align="center" src="Assets/Icons/mail.png" alt="mail me" height="40" width="40" /></a>
 </p> </br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sdhrrr&bg_color=141321&color=ffffff&line=ffffff&point=1eb8eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- ================ -->
 
 <h1>TOOLS</h1>
@@ -59,4 +61,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sdhrrr&theme=dark)](https://git.io/streak-stats)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sdhrrr&bg_color=141321&color=ffffff&line=ffffff&point=1eb8eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
