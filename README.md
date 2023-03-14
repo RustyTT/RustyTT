@@ -44,7 +44,7 @@
 <a style="padding: 20px;" class="icon" href="_blank" target="blank"><img align="center" src="Assets/Icons/mysql.png" alt="mail me" height="40" width="40" /></a>
 <a style="padding: 20px;" class="icon" href="_blank" target="blank"><img align="center" src="Assets/Icons/figma.png" alt="mail me" height="40" width="40" /></a>
 <a style="padding: 20px;" class="icon" href="_blank" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="mail me" height="40" width="40" /></a>
-</br></br></br></br>
+</br></br>
 
 <!-- ======================== -->
 
