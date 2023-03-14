@@ -1,24 +1,11 @@
-<!-- <h1 align="center">Hi 👋, I'm Sudheer J</h1>
-<h3 align="center">A Front End and Data Science enthusiast from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdhrrr&label=Profile%20views&color=0e75b6&style=flat" alt="sdhrrr" /> </p>
-
-- 🌱 I’m currently learning **MySQL and C++**
-
-- 📫 How to reach me **Discord: Rust.js#2332**
-
-- ⚡ Fun fact **Love Christopher Nolan's movies** -->
-
-
-
-<img src = "intro.gif" alt = "Hello world">
+<img src="Assets/intro.gif">
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sdhrrr/count.svg"/>
 </p>
 
-```
+```python
 
   About me: 
   I am 'Sudheer'
