@@ -1,4 +1,4 @@
-<img src = "Assets/Intro.gif" alt = "Hello world">
+<img src = "Assets/intro.gif" alt = "Hello world">
 
 <p align="center"> 
   Visitor count<br>
